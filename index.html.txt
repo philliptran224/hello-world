@@ -15,5 +15,7 @@ style-"width:100%;max-width:960px"></div>
 
 <dix><img src="hello_git_image.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
+<p>I just did some changes.</p>
+
 </body>
 </html>
